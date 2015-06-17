@@ -5,4 +5,5 @@ the original source code can be found here: https://github.com/ms-iot/build2015-
 
 the slides can be found here: http://www.slideshare.net/TamirDresher/iot-with-windows-10
 
+YouTube Teser: https://www.youtube.com/watch?v=JVlJ6qvN7wU&feature=youtu.be
 more information in my blog: www.tamirdresher.com
